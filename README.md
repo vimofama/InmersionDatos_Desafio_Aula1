@@ -8,7 +8,7 @@ Este codigo realiza el analisis estadístico de los inmuebles en Bogotá, espec�
 
 ## Requerimientos
 
-* Python 3.x
+* Python 3.10.1
 * pandas
 * matplotlib
 
